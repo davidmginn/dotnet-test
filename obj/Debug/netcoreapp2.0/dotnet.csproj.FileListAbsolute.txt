@@ -1,0 +1,10 @@
+/Users/davi8755/Documents/Projects/dotnet/bin/Debug/netcoreapp2.0/dotnet.deps.json
+/Users/davi8755/Documents/Projects/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.json
+/Users/davi8755/Documents/Projects/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.dev.json
+/Users/davi8755/Documents/Projects/dotnet/bin/Debug/netcoreapp2.0/dotnet.dll
+/Users/davi8755/Documents/Projects/dotnet/bin/Debug/netcoreapp2.0/dotnet.pdb
+/Users/davi8755/Documents/Projects/dotnet/obj/Debug/netcoreapp2.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/davi8755/Documents/Projects/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfoInputs.cache
+/Users/davi8755/Documents/Projects/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfo.cs
+/Users/davi8755/Documents/Projects/dotnet/obj/Debug/netcoreapp2.0/dotnet.dll
+/Users/davi8755/Documents/Projects/dotnet/obj/Debug/netcoreapp2.0/dotnet.pdb
